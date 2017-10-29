@@ -23,3 +23,6 @@ string z=third;
      Son3 S=new Son3();
     }
 }
+
+
+ edite
